@@ -60,7 +60,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: const Text('API DEMO'),
         centerTitle: true,
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.yellowAccent,
       ),
       body: Center(
         child: Container(
